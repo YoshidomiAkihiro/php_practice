@@ -165,3 +165,5 @@ echo "\n";
  <?php
 echo date('d', strtotime('-1 day'));//昨日
 ?>
+
+
